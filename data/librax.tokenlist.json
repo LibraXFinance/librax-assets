@@ -1,0 +1,30 @@
+{
+    "name": "LibraX",
+    "timestamp": "2022-5-17 18:18:18",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 2
+    },
+    "tags": {},
+    "logoURI": "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/LBX.png",
+    "keywords": ["astar", "librax", "default"],
+    "tokens": [
+      {
+        "name": "Astar",
+        "address": "0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720",
+        "symbol": "WASTR",
+        "decimals": 18,
+        "chainId": 592,
+        "logoURI": "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720.png"
+      },
+      {
+        "name": "USDC",
+        "address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+        "symbol": "USDC",
+        "decimals": 6,
+        "chainId": 592,
+        "logoURI": "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
+      }
+    ]
+  }
