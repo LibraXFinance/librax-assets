@@ -1,30 +1,30 @@
 {
     "name": "LibraX",
-    "timestamp": "2022-5-17 18:18:18",
+    "timestamp": "2022-8-03 8:00:00",
     "version": {
       "major": 1,
       "minor": 0,
       "patch": 2
     },
     "tags": {},
-    "logoURI": "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/LBX.png",
-    "keywords": ["astar", "librax", "default"],
+    "logoURI": "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/LBX.png",
+    "keywords": ["avalanche", "librax", "default"],
     "tokens": [
       {
-        "name": "Astar",
-        "address": "0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720",
-        "symbol": "WASTR",
+        "name": "Avalanche",
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "symbol": "WAVAX",
         "decimals": 18,
-        "chainId": 592,
-        "logoURI": "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720.png"
+        "chainId": 43114,
+        "logoURI": "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7.png"
       },
       {
-        "name": "USDC",
-        "address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
-        "symbol": "USDC",
+        "name": "USDC.e",
+        "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+        "symbol": "USDC.e",
         "decimals": 6,
-        "chainId": 592,
-        "logoURI": "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
+        "chainId": 43114,
+        "logoURI": "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png"
       }
     ]
   }
